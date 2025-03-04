@@ -1,18 +1,17 @@
-# Single Web Page illustrating use of the Figure tag for Abraham Lincoln
+# Single Web Page illustrating use of the Figure tag featuring Abraham Lincoln
 
 ## Semantic HTML elements illustrated
 
+- \<header>, \<h1> and \<h2>
 - \<main>
-- \<h1> and \<h2> headings
-- \<figure>
-- \<figcaption>
+- \<figure> and \<figcaption>
 - \<img>
 - \<p>
 
 ## CSS stylesheet
 
 - Google font _Germania_
-- figure element has max-width = 1200px, auto margins, and border
+- figure style properties: width, max-width, margin, padding and border
 - body and figure have complementary background colors from [Canva](https://www.canva.com/colors/color-wheel/)
 
 ## Image Credits

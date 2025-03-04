@@ -5,11 +5,18 @@ body {
   background-color: #c9d3e2;
 }
 
-h1 {
+header {
   text-align: center;
-  font-size: 3em;
+  h1 {
+    font-size: 3em;
+    margin-bottom: 1rem;
+  }
+  p {
+    font-size: 1.5rem;
+  }
 }
 figure {
+  width: 80%;
   max-width: 1200px;
   margin: auto;
   border: 10px solid #333;
@@ -24,9 +31,10 @@ figure {
     text-align: center;
     h2 {
       margin-top: 0;
+      font-size: 2rem;
     }
     p {
-      font-size: 1.5em;
+      font-size: 1.5rem;
       padding: 0 5%;
     }
   }
